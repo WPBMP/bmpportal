@@ -1,8 +1,10 @@
 #set("title") { It works }
 
 #set("body") {
-	<div class="welcome">
-		<img src="/images/it-works.png">
+	<div class="container">
+		<div class="row">
+			<img src="/images/it-works.png">
+		</div>
 	</div>
 }
 
